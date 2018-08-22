@@ -19,10 +19,25 @@ Here's a list of items with which you should be familiar:
 * copying a file from one directory to another
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
-
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+ ls -l : show current working directory
 ---
+ cd : create a directory
+---
+ rm -rf : delete a directory recursively
+---
+ touch filename : create a file using touch
+---
+ rm filename: remove filename
+---
+ mv oldfilename newfilename : renaming a file
+---
+ ls -a : list all hidden files
+---
+ cp source destination : copy file from source to destination
+---
+ chmod options permissions filename: change permissions of file or directory
+--
+ grep : look  for a pattern in a file or a directory
 
 ### Q2.  List Files in Unix   
 
